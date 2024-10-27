@@ -18,3 +18,4 @@ public class triangleCount {
         System.out.println(count);
     }
 }
+
